@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Nishant Dangol.
 ### I am currently studying in Grade11.
-### Contact me:instagram.com/nishant.dangol/
+### Contact me: https://www.instagram.com/nishant.dangol/
 
 
 
