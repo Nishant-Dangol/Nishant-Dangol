@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Nishant Dangol.\n
-I am currently studying in Grade-11.\n
-Contact me:https://www.instagram.com/nishant.dangol/\n
+## My name is Nishant Dangol.
+## I am currently studying in Grade-11.
+## Contact me:https://www.instagram.com/nishant.dangol/
 
 <!--
 **Nishant-Dangol/Nishant-Dangol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
